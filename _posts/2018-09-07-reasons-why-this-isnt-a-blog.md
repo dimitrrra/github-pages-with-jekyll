@@ -1,3 +1,7 @@
+---
+title: "BLOGS SUCK"
+date: 2018-09-07
+---
 # This is not a blog. It's an amazing (may I add) WEBSITE! 
 Reasons why this isnt a blog:
 REASON #1: blogs are a pointless waste of time.
